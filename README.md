@@ -1,6 +1,6 @@
 # How to find my windows product key ?
 
-[![How to find my windows product key](light-neon.png)](https://github.com/techrepublikk/how.to.find.my.windows-.product.key)
+[![How to find my windows product key](light-neon.png)](https://github.com/techrepublikk/how.to.find.my.windows.product.key)
 
 Windows Product Key alternatively known as an activation code, CD key, license key, product id, registration key, and serial key, a product key is a group of numbers and letters for preventing software piracy. Software that requires a product key cannot be installed on a computer until a valid number is entered.
 
